@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MainTabs">
+        <attr name="textSize_main" format="dimension"></attr>
+        <attr name="scale_main" format="float"></attr>
+        <attr name="textColor_main" format="color"></attr>
+        <attr name="backgroundColor_main" format="color"></attr>
+        <attr name="textStyle_main" format="integer"></attr>
+        <attr name="textAllCap_main" format="boolean"></attr>
+        <attr name="underlineColor_main" format="color"></attr>
+        <attr name="underlineThickness_main" format="dimension"></attr>
+        <attr name="underlinewidth_main" format="dimension"></attr>
+        <attr name="specialwidth_main" format="dimension"></attr>
+        <attr name="marginBottom_main" format="dimension"></attr>
+        <attr name="needScale_main" format="boolean"></attr>
+        <attr name="needBold_main" format="boolean"></attr>
+    </declare-styleable>
+</resources>
