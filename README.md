@@ -1,0 +1,2 @@
+# TrianglePagerIndicator
+带有曲线动画的viewpager指示器
